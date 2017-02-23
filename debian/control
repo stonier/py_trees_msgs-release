@@ -1,0 +1,12 @@
+Source: ros-kinetic-py-trees-msgs
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <stonier@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-message-generation, ros-kinetic-std-msgs, ros-kinetic-uuid-msgs
+Homepage: http://ros.org/wiki/py_trees_msgs
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-py-trees-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-message-runtime, ros-kinetic-std-msgs, ros-kinetic-uuid-msgs
+Description: Messages used by py_trees
