@@ -1,0 +1,12 @@
+Source: ros-bouncy-py-trees-msgs
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-bouncy-ament-cmake, ros-bouncy-ament-lint-common, ros-bouncy-rosidl-default-generators, ros-bouncy-std-msgs, ros-bouncy-ros-workspace, ros-bouncy-rmw-connext-cpp, ros-bouncy-rmw-fastrtps-cpp, ros-bouncy-rmw-implementation, ros-bouncy-rmw-opensplice-cpp, ros-bouncy-rosidl-typesupport-connext-c, ros-bouncy-rosidl-typesupport-connext-cpp, ros-bouncy-rosidl-typesupport-opensplice-c, ros-bouncy-rosidl-typesupport-opensplice-cpp
+Homepage: http://ros.org/wiki/py_trees_msgs
+Standards-Version: 3.9.2
+
+Package: ros-bouncy-py-trees-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-bouncy-rosidl-default-runtime, ros-bouncy-std-msgs, ros-bouncy-ros-workspace
+Description: Messages used by py_trees_ros and some extras for the mock demos/tests.
