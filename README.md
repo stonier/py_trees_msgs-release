@@ -1,3 +1,26 @@
+## py_trees_msgs (bouncy) - 0.4.1-0
+
+The packages in the `py_trees_msgs` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release --track bouncy --rosdistro bouncy py_trees_msgs` on `Sat, 13 Oct 2018 20:53:56 -0000`
+
+The `py_trees_msgs` package was released.
+
+Version of package(s) in repository `py_trees_msgs`:
+
+- upstream repository: https://github.com/stonier/py_trees_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.7`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## py_trees_msgs (melodic) - 0.3.5-0
 
 The packages in the `py_trees_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic py_trees_msgs` on `Tue, 21 Aug 2018 10:45:22 -0000`
