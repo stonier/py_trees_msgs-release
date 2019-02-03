@@ -1,3 +1,26 @@
+## py_trees_msgs (crystal) - 0.4.3-0
+
+The packages in the `py_trees_msgs` repository were released into the `crystal` distro by running `/usr/bin/bloom-release --track crystal --rosdistro crystal py_trees_msgs` on `Sun, 03 Feb 2019 01:37:25 -0000`
+
+The `py_trees_msgs` package was released.
+
+Version of package(s) in repository `py_trees_msgs`:
+
+- upstream repository: https://github.com/stonier/py_trees_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## py_trees_msgs (melodic) - 0.3.6-0
 
 The packages in the `py_trees_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic py_trees_msgs` on `Tue, 22 Jan 2019 05:23:06 -0000`
