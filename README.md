@@ -1,3 +1,26 @@
+## py_trees_msgs (noetic) - 0.3.7-2
+
+The packages in the `py_trees_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track noetic --rosdistro noetic py_trees_msgs` on `Sun, 09 May 2021 14:46:55 -0000`
+
+The `py_trees_msgs` package was released.
+
+Version of package(s) in repository `py_trees_msgs`:
+
+- upstream repository: https://github.com/splintered-reality/py_trees_msgs.git
+- release repository: https://github.com/stonier/py_trees_msgs-release.git
+- rosdistro version: `0.3.6-1`
+- old version: `0.3.7-1`
+- new version: `0.3.7-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## py_trees_msgs (noetic) - 0.3.7-1
 
 The packages in the `py_trees_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track noetic --rosdistro noetic py_trees_msgs` on `Sun, 09 May 2021 14:33:30 -0000`
